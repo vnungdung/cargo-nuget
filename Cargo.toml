@@ -11,7 +11,7 @@ quick-error = "~1.1"
 clap = "~2.21"
 term-painter = "~0.2"
 toml = { version = "~0.2", features = ["serde"], default-features = false }
-xml-rs = "~0.3"
+xml-rs = "~0.8"
 zip = "~0.2"
 chrono = "~0.3"
 semver = "~0.6"
